@@ -88,4 +88,7 @@ lint/tmp/
 # lint/reports/
 
 #teamcode
-TeamCode/src/main/java/org/firstinspires/ftc/teamcode
+TeamCode/src/main/java/org/firstinspires/ftc/teamcode/readme.md
+teamcode/
+TeamCode/src/main/java/org/firstinspires/ftc/teamcode/
+
