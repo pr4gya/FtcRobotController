@@ -91,4 +91,6 @@ lint/tmp/
 TeamCode/src/main/java/org/firstinspires/ftc/teamcode/readme.md
 teamcode/
 TeamCode/src/main/java/org/firstinspires/ftc/teamcode/
+.DS_Store
+
 
